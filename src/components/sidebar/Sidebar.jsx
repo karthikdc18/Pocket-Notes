@@ -14,7 +14,7 @@ export const Sidebar = () => {
   return (
     <div className={styles.container}>
       <div className={styles.heading}>
-        <h1>Pocket Notes</h1>
+        <h1>Karthik's Pocket Notes</h1>
       </div>
 
       <div className={styles.group_container}>
